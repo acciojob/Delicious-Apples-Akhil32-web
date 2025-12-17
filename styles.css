@@ -9,7 +9,16 @@
 	justify-items:space-between;
 }
 
-.button{
-	background-color: orange;
+.add-to-cart{
+	display: inline-block;
+margin-top: 1.5rem;
+padding: 0.8rem 1.8rem;
+background: #ff4d4d;
+color: #fff;
+border: none;
+border-radius: 6px;
+font-size: 0.9rem;
+cursor: pointer;
+text-transform: uppercase;
 	
 }
